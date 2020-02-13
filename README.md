@@ -9,6 +9,10 @@
 
 
    1.register/ ==> user should register by json like this : {"username" : "Negar" , "password" : "1234" , "address" : "Tehran"}
+   
+   
+   
+   
    2.questions/ ==> for get random questions.Users should send their token key in request's header like this :
                     Authorization : Token fa5b2ec21eae949b5df32a52afeff761ccc39c14
                     
