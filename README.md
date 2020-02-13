@@ -1,7 +1,7 @@
 # Online_Exam
 
 ** Users should register first , then they get their token and should use it to get questions.
-   They get 5 random questions and after that should pass their answer , Then they get their result.
+   They get 5 random questions and after that should pass their answer , Then they get their results.
 
 ** A brief view over project's URLs :
 
